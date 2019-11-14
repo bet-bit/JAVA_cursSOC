@@ -10,4 +10,4 @@ This project contains drafts and basic Java code from an online course. More pre
 - Simple setup, everything by hand
 
 ### pla6-springMVC
-- Putting into practice a simple example of MVC architecture in which Spring is based
+- Putting into practice a simple example of MVC architecture in spring
